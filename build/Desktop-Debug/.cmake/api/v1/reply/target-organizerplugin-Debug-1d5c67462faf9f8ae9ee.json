@@ -1,0 +1,240 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "qml/organizer/liborganizerplugin.a"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_plugin",
+			"qt6_add_qml_plugin",
+			"qt6_add_qml_module",
+			"target_link_libraries",
+			"target_compile_definitions",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/usr/lib64/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/usr/lib64/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"imports/organizer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 1802,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2211,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2398,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 1937,
+				"parent" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 1933,
+				"parent" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2278,
+				"parent" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2216,
+				"parent" : 3
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 1927,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STATICPLUGIN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/maksym/projects/help/organizer/build/Desktop-Debug/imports/organizer/organizerplugin_autogen/include"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtQml"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtCore"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/usr/lib64/qt6/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/usr/include/qt6/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "organizer::@cd9c4ce3077842dae00d"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "organizer_resources_1::@cd9c4ce3077842dae00d"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "organizer_qmlcache::@cd9c4ce3077842dae00d"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "organizer_resources_2::@cd9c4ce3077842dae00d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "organizerplugin_autogen::@cd9c4ce3077842dae00d"
+		}
+	],
+	"id" : "organizerplugin::@cd9c4ce3077842dae00d",
+	"name" : "organizerplugin",
+	"nameOnDisk" : "liborganizerplugin.a",
+	"paths" : 
+	{
+		"build" : "imports/organizer",
+		"source" : "imports/organizer"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/imports/organizer/organizerplugin_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 10,
+			"compileGroupIndex" : 0,
+			"path" : "build/Desktop-Debug/imports/organizer/organizerplugin_organizerPlugin.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

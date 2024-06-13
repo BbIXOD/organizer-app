@@ -1,0 +1,60 @@
+{
+    "classes": [
+        {
+            "className": "LoginController",
+            "object": true,
+            "qualifiedClassName": "LoginController",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "username",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "password",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "handleLogin",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "username",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "password",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "handleRegister",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "reg",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "switchRegLog",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "logincontroller.h",
+    "outputRevision": 68
+}

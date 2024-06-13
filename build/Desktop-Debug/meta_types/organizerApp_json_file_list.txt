@@ -1,0 +1,1 @@
+/home/maksym/projects/help/organizer/build/Desktop-Debug/organizerApp_autogen/include/../UVLADIE3JM/moc_logincontroller.cpp.json

@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">/home/maksym/projects/help/organizer/content/App.qml</file>
+    <file alias="Screen01.ui.qml">/home/maksym/projects/help/organizer/content/Screen01.ui.qml</file>
+    <file alias="pages/Login.qml">/home/maksym/projects/help/organizer/content/pages/Login.qml</file>
+    <file alias="pages/PopupPage.qml">/home/maksym/projects/help/organizer/content/pages/PopupPage.qml</file>
+    <file alias="pages/Register.qml">/home/maksym/projects/help/organizer/content/pages/Register.qml</file>
+    <file alias="pages/Main.qml">/home/maksym/projects/help/organizer/content/pages/Main.qml</file>
+    <file alias="pages/Notes.qml">/home/maksym/projects/help/organizer/content/pages/Notes.qml</file>
+    <file alias="fonts/fonts.txt">/home/maksym/projects/help/organizer/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

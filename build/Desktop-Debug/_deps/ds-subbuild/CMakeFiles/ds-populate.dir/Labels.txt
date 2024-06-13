@@ -1,0 +1,14 @@
+# Target labels
+ ds-populate
+# Source files and their labels
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule

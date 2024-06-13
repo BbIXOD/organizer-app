@@ -1,0 +1,4 @@
+module Main
+typeinfo organizerApp.qmltypes
+prefer :/qt/qml/Main/
+

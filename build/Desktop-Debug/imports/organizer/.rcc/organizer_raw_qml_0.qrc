@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/organizer/">
+    <file alias="Constants.qml">/home/maksym/projects/help/organizer/imports/organizer/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">/home/maksym/projects/help/organizer/imports/organizer/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">/home/maksym/projects/help/organizer/imports/organizer/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">/home/maksym/projects/help/organizer/imports/organizer/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

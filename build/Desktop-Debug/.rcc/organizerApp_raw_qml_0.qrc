@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main/">
+    <file alias="main.qml">/home/maksym/projects/help/organizer/main.qml</file>
+  </qresource>
+</RCC>
+

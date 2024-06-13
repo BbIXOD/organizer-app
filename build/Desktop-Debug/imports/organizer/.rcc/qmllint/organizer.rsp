@@ -1,0 +1,15 @@
+--bare
+-I
+/home/maksym/projects/help/organizer/build/Desktop-Debug/qml
+-I
+/home/maksym/projects/help/organizer/build/Desktop-Debug/qml
+-I
+/usr/lib64/qt6/qml
+--resource
+/home/maksym/projects/help/organizer/build/Desktop-Debug/imports/organizer/.rcc/qmake_organizer.qrc
+--resource
+/home/maksym/projects/help/organizer/build/Desktop-Debug/imports/organizer/.rcc/organizer_raw_qml_0.qrc
+/home/maksym/projects/help/organizer/imports/organizer/Constants.qml
+/home/maksym/projects/help/organizer/imports/organizer/DirectoryFontLoader.qml
+/home/maksym/projects/help/organizer/imports/organizer/EventListModel.qml
+/home/maksym/projects/help/organizer/imports/organizer/EventListSimulator.qml

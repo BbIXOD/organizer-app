@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  ".rcc/qmlcache/organizerApp_main_qml.cpp"
+  ".rcc/qrc_configuration.cpp"
+  ".rcc/qrc_organizerApp_raw_qml_0.cpp"
+  ".rcc/qrc_qmake_Main.cpp"
+  "CMakeFiles/organizerApp_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/organizerApp_autogen.dir/ParseCache.txt"
+  "organizerApp_autogen"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o"
+  "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/organizerApp_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/organizerApp.dir/organizerApp_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o"
+  "CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/src/db/user.cpp.o"
+  "CMakeFiles/organizerApp.dir/src/db/user.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/src/helper.cpp.o"
+  "CMakeFiles/organizerApp.dir/src/helper.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/src/logincontroller.cpp.o"
+  "CMakeFiles/organizerApp.dir/src/logincontroller.cpp.o.d"
+  "CMakeFiles/organizerApp.dir/src/main.cpp.o"
+  "CMakeFiles/organizerApp.dir/src/main.cpp.o.d"
+  "meta_types/qt6organizerapp_debug_metatypes.json"
+  "meta_types/qt6organizerapp_debug_metatypes.json.gen"
+  "organizerApp"
+  "organizerApp.pdb"
+  "organizerapp_qmltyperegistrations.cpp"
+  "qml/Main/organizerApp.qmltypes"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/organizerApp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

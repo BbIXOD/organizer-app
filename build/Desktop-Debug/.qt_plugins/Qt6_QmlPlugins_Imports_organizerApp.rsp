@@ -1,0 +1,15 @@
+-rootPath
+/home/maksym/projects/help/organizer
+-cmake-output
+-output-file
+/home/maksym/projects/help/organizer/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_organizerApp.cmake
+-importPath
+/home/maksym/projects/help/organizer/build/Desktop-Debug/qml/Main
+-importPath
+/home/maksym/projects/help/organizer/build/Desktop-Debug/qml
+-importPath
+/usr/lib64/qt6/qml
+-qrcFiles
+/home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/configuration.qrc
+/home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/qmake_Main.qrc
+/home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/organizerApp_raw_qml_0.qrc

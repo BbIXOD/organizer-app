@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/content">/home/maksym/projects/help/organizer/build/Desktop-Debug/qml/content</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../qml/organizer/liborganizerplugin.a CMakeFiles/organizerplugin.dir/organizerplugin_autogen/mocs_compilation.cpp.o CMakeFiles/organizerplugin.dir/organizerplugin_organizerPlugin.cpp.o
+/usr/bin/ranlib ../../qml/organizer/liborganizerplugin.a

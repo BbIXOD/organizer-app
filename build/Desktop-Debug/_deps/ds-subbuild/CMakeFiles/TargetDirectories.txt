@@ -1,0 +1,3 @@
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+/home/maksym/projects/help/organizer/build/Desktop-Debug/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir
