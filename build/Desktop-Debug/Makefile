@@ -2420,30 +2420,6 @@ src/db/user.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/db/user.cpp.s
 .PHONY : src/db/user.cpp.s
 
-src/helper.o: src/helper.cpp.o
-.PHONY : src/helper.o
-
-# target to build an object file
-src/helper.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/helper.cpp.o
-.PHONY : src/helper.cpp.o
-
-src/helper.i: src/helper.cpp.i
-.PHONY : src/helper.i
-
-# target to preprocess a source file
-src/helper.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/helper.cpp.i
-.PHONY : src/helper.cpp.i
-
-src/helper.s: src/helper.cpp.s
-.PHONY : src/helper.s
-
-# target to generate assembly for a file
-src/helper.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/helper.cpp.s
-.PHONY : src/helper.cpp.s
-
 src/logincontroller.o: src/logincontroller.cpp.o
 .PHONY : src/logincontroller.o
 
@@ -2491,6 +2467,54 @@ src/main.s: src/main.cpp.s
 src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
+
+src/notescontroller.o: src/notescontroller.cpp.o
+.PHONY : src/notescontroller.o
+
+# target to build an object file
+src/notescontroller.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o
+.PHONY : src/notescontroller.cpp.o
+
+src/notescontroller.i: src/notescontroller.cpp.i
+.PHONY : src/notescontroller.i
+
+# target to preprocess a source file
+src/notescontroller.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/notescontroller.cpp.i
+.PHONY : src/notescontroller.cpp.i
+
+src/notescontroller.s: src/notescontroller.cpp.s
+.PHONY : src/notescontroller.s
+
+# target to generate assembly for a file
+src/notescontroller.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/notescontroller.cpp.s
+.PHONY : src/notescontroller.cpp.s
+
+src/qmlhelper.o: src/qmlhelper.cpp.o
+.PHONY : src/qmlhelper.o
+
+# target to build an object file
+src/qmlhelper.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o
+.PHONY : src/qmlhelper.cpp.o
+
+src/qmlhelper.i: src/qmlhelper.cpp.i
+.PHONY : src/qmlhelper.i
+
+# target to preprocess a source file
+src/qmlhelper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.i
+.PHONY : src/qmlhelper.cpp.i
+
+src/qmlhelper.s: src/qmlhelper.cpp.s
+.PHONY : src/qmlhelper.s
+
+# target to generate assembly for a file
+src/qmlhelper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.s
+.PHONY : src/qmlhelper.cpp.s
 
 # Help Target
 help:
@@ -2687,15 +2711,18 @@ help:
 	@echo "... src/db/user.o"
 	@echo "... src/db/user.i"
 	@echo "... src/db/user.s"
-	@echo "... src/helper.o"
-	@echo "... src/helper.i"
-	@echo "... src/helper.s"
 	@echo "... src/logincontroller.o"
 	@echo "... src/logincontroller.i"
 	@echo "... src/logincontroller.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/notescontroller.o"
+	@echo "... src/notescontroller.i"
+	@echo "... src/notescontroller.s"
+	@echo "... src/qmlhelper.o"
+	@echo "... src/qmlhelper.i"
+	@echo "... src/qmlhelper.s"
 .PHONY : help
 
 

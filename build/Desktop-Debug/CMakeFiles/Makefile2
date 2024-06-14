@@ -619,7 +619,7 @@ CMakeFiles/organizerApp.dir/all: imports/organizer/CMakeFiles/organizerplugin_in
 CMakeFiles/organizerApp.dir/all: CMakeFiles/organizerApp_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/organizerApp.dir/build.make CMakeFiles/organizerApp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=90,91,92,93 "Built target organizerApp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=89,90,91,92,93 "Built target organizerApp"
 .PHONY : CMakeFiles/organizerApp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1012,7 +1012,7 @@ _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir
 _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/all: _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/build.make _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/build.make _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=27 "Built target QuickStudioComponentsplugin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioComponentsplugin"
 .PHONY : _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1342,12 +1342,12 @@ _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents_autogen.d
 _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/build.make _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/build.make _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioComponentsplugin_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=27 "Built target QuickStudioComponentsplugin_autogen"
 .PHONY : _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_autogen.dir/rule
@@ -1427,7 +1427,7 @@ _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/all: _d
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 11
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 12
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/rule
@@ -1453,7 +1453,7 @@ _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_automoc_jso
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_automoc_json_extraction.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_automoc_json_extraction.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_automoc_json_extraction.dir/rule
@@ -1479,7 +1479,7 @@ _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_qmltyperegi
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_qmltyperegistration.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 11
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_qmltyperegistration.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_qmltyperegistration.dir/rule
@@ -1555,12 +1555,12 @@ _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffectsplugin.dir/c
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/build.make _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/build.make _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=32,33,34,35,36,37,38,39,40 "Built target QuickStudioEffects_tooling"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=31,32,33,34,35,36,37,38,39,40 "Built target QuickStudioEffects_tooling"
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir/rule
@@ -1581,12 +1581,12 @@ _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_tooling.dir
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/build.make _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/build.make _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=31 "Built target QuickStudioEffects_resources_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioEffects_resources_2"
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/rule
@@ -1638,7 +1638,7 @@ _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_autogen.dir
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_autogen.dir/rule
@@ -1982,7 +1982,7 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/rule
@@ -2003,12 +2003,12 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/cle
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/all: _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=57 "Built target QuickStudioLogicHelper_automoc_json_extraction"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioLogicHelper_automoc_json_extraction"
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/rule
@@ -2029,12 +2029,12 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/all: _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_automoc_json_extraction.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioLogicHelper_qmltyperegistration"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=58 "Built target QuickStudioLogicHelper_qmltyperegistration"
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmltyperegistration.dir/rule
@@ -2085,12 +2085,12 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.d
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/all: _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioLogicHelperplugin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=61 "Built target QuickStudioLogicHelperplugin"
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/rule
@@ -2189,7 +2189,7 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmllint
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache.dir/all: _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioLogicHelper_qmlcache"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=57 "Built target QuickStudioLogicHelper_qmlcache"
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2215,12 +2215,12 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcach
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=60,61 "Built target QuickStudioLogicHelper_tooling"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=60 "Built target QuickStudioLogicHelper_tooling"
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_tooling.dir/rule
@@ -2298,7 +2298,7 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_autogen
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_autogen.dir/rule
@@ -2345,12 +2345,12 @@ _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin_a
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/build.make _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=58 "Built target QuickStudioLogicHelper_qmlcache_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioLogicHelper_qmlcache_autogen"
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_qmlcache_autogen.dir/rule
@@ -2425,7 +2425,7 @@ _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText.dir/clean:
 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_automoc_json_extraction.dir/all: _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_automoc_json_extraction.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_automoc_json_extraction.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_automoc_json_extraction.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_automoc_json_extraction.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioMultiText_automoc_json_extraction"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=64 "Built target QuickStudioMultiText_automoc_json_extraction"
 .PHONY : _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_automoc_json_extraction.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2506,7 +2506,7 @@ _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/a
 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/all: _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=67 "Built target QuickStudioMultiTextplugin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioMultiTextplugin"
 .PHONY : _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2610,12 +2610,12 @@ _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_init.
 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/all: _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_tooling.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=64 "Built target QuickStudioMultiText_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioMultiText_autogen"
 .PHONY : _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir/rule
@@ -2636,12 +2636,12 @@ _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_autogen.dir
 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/build.make _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioMultiTextplugin_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=67 "Built target QuickStudioMultiTextplugin_autogen"
 .PHONY : _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_autogen.dir/rule
@@ -2875,7 +2875,7 @@ _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimul
 _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/all: _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/build.make _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/build.make _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=47 "Built target QuickStudioEventSimulatorplugin_init"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioEventSimulatorplugin_init"
 .PHONY : _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2953,12 +2953,12 @@ _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimul
 _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/build.make _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/build.make _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioEventSimulatorplugin_init_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=47 "Built target QuickStudioEventSimulatorplugin_init_autogen"
 .PHONY : _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init_autogen.dir/rule
@@ -3059,12 +3059,12 @@ _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_q
 _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/build.make _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/build.make _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=50 "Built target QuickStudioEventSystem_resources_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioEventSystem_resources_1"
 .PHONY : _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/rule
@@ -3140,12 +3140,12 @@ _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_t
 _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/build.make _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/build.make _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioEventSystem_resources_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=50 "Built target QuickStudioEventSystem_resources_2"
 .PHONY : _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/rule
@@ -3613,7 +3613,7 @@ _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/clean:
 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_automoc_json_extraction.dir/all: _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_automoc_json_extraction.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_automoc_json_extraction.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_automoc_json_extraction.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_automoc_json_extraction.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioUtils_automoc_json_extraction"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=71 "Built target QuickStudioUtils_automoc_json_extraction"
 .PHONY : _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_automoc_json_extraction.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3695,7 +3695,7 @@ _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/all: _dep
 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/all: _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=75 "Built target QuickStudioUtilsplugin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioUtilsplugin"
 .PHONY : _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3903,12 +3903,12 @@ _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_init.dir/clea
 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/all: _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_tooling.dir/all
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=71 "Built target QuickStudioUtils_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioUtils_autogen"
 .PHONY : _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/rule
@@ -3929,12 +3929,12 @@ _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_autogen.dir/clean:
 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/build.make _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target QuickStudioUtilsplugin_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=75 "Built target QuickStudioUtilsplugin_autogen"
 .PHONY : _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : _deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_autogen.dir/rule
@@ -4061,12 +4061,12 @@ content/CMakeFiles/content_automoc_json_extraction.dir/clean:
 content/CMakeFiles/content_qmltyperegistration.dir/all: content/CMakeFiles/content_automoc_json_extraction.dir/all
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_qmltyperegistration.dir/build.make content/CMakeFiles/content_qmltyperegistration.dir/depend
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_qmltyperegistration.dir/build.make content/CMakeFiles/content_qmltyperegistration.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=82 "Built target content_qmltyperegistration"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target content_qmltyperegistration"
 .PHONY : content/CMakeFiles/content_qmltyperegistration.dir/all
 
 # Build rule for subdir invocation for target.
 content/CMakeFiles/content_qmltyperegistration.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 content/CMakeFiles/content_qmltyperegistration.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : content/CMakeFiles/content_qmltyperegistration.dir/rule
@@ -4087,12 +4087,12 @@ content/CMakeFiles/content_qmltyperegistration.dir/clean:
 content/CMakeFiles/content_resources_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_resources_1.dir/build.make content/CMakeFiles/content_resources_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_resources_1.dir/build.make content/CMakeFiles/content_resources_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target content_resources_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=82 "Built target content_resources_1"
 .PHONY : content/CMakeFiles/content_resources_1.dir/all
 
 # Build rule for subdir invocation for target.
 content/CMakeFiles/content_resources_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 content/CMakeFiles/content_resources_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : content/CMakeFiles/content_resources_1.dir/rule
@@ -4122,7 +4122,7 @@ content/CMakeFiles/contentplugin.dir/all: content/CMakeFiles/contentplugin_autog
 
 # Build rule for subdir invocation for target.
 content/CMakeFiles/contentplugin.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 content/CMakeFiles/contentplugin.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : content/CMakeFiles/contentplugin.dir/rule
@@ -4221,7 +4221,7 @@ content/CMakeFiles/content_qmllint_module.dir/clean:
 content/CMakeFiles/content_qmlcache.dir/all: content/CMakeFiles/content_qmlcache_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_qmlcache.dir/build.make content/CMakeFiles/content_qmlcache.dir/depend
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_qmlcache.dir/build.make content/CMakeFiles/content_qmlcache.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=81 "Built target content_qmlcache"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target content_qmlcache"
 .PHONY : content/CMakeFiles/content_qmlcache.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4304,7 +4304,7 @@ content/CMakeFiles/contentplugin_init.dir/all: content/CMakeFiles/contentplugin_
 
 # Build rule for subdir invocation for target.
 content/CMakeFiles/contentplugin_init.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 content/CMakeFiles/contentplugin_init.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : content/CMakeFiles/contentplugin_init.dir/rule
@@ -4377,12 +4377,12 @@ content/CMakeFiles/contentplugin_autogen.dir/clean:
 content/CMakeFiles/content_qmlcache_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_qmlcache_autogen.dir/build.make content/CMakeFiles/content_qmlcache_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/content_qmlcache_autogen.dir/build.make content/CMakeFiles/content_qmlcache_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target content_qmlcache_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=81 "Built target content_qmlcache_autogen"
 .PHONY : content/CMakeFiles/content_qmlcache_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 content/CMakeFiles/content_qmlcache_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 content/CMakeFiles/content_qmlcache_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : content/CMakeFiles/content_qmlcache_autogen.dir/rule
@@ -4403,12 +4403,12 @@ content/CMakeFiles/content_qmlcache_autogen.dir/clean:
 content/CMakeFiles/contentplugin_init_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/contentplugin_init_autogen.dir/build.make content/CMakeFiles/contentplugin_init_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f content/CMakeFiles/contentplugin_init_autogen.dir/build.make content/CMakeFiles/contentplugin_init_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=86 "Built target contentplugin_init_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num= "Built target contentplugin_init_autogen"
 .PHONY : content/CMakeFiles/contentplugin_init_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 content/CMakeFiles/contentplugin_init_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 content/CMakeFiles/contentplugin_init_autogen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles 0
 .PHONY : content/CMakeFiles/contentplugin_init_autogen.dir/rule
@@ -4431,7 +4431,7 @@ imports/organizer/CMakeFiles/organizer.dir/all: imports/organizer/CMakeFiles/org
 imports/organizer/CMakeFiles/organizer.dir/all: imports/organizer/CMakeFiles/organizer_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f imports/organizer/CMakeFiles/organizer.dir/build.make imports/organizer/CMakeFiles/organizer.dir/depend
 	$(MAKE) $(MAKESILENT) -f imports/organizer/CMakeFiles/organizer.dir/build.make imports/organizer/CMakeFiles/organizer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=87,88,89 "Built target organizer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=86,87,88 "Built target organizer"
 .PHONY : imports/organizer/CMakeFiles/organizer.dir/all
 
 # Build rule for subdir invocation for target.

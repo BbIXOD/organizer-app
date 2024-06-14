@@ -43,21 +43,17 @@ constexpr auto qt_meta_stringdata_CLASSLoginControllerENDCLASS = QtMocHelpers::s
     "",
     "username",
     "password",
-    "handleRegister",
-    "switchRegLog",
-    "reg"
+    "handleRegister"
 );
 #else  // !QT_MOC_HAS_STRING_DATA
 struct qt_meta_stringdata_CLASSLoginControllerENDCLASS_t {
-    uint offsetsAndSizes[16];
+    uint offsetsAndSizes[12];
     char stringdata0[16];
     char stringdata1[12];
     char stringdata2[1];
     char stringdata3[9];
     char stringdata4[9];
     char stringdata5[15];
-    char stringdata6[13];
-    char stringdata7[4];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_CLASSLoginControllerENDCLASS_t::offsetsAndSizes) + ofs), len 
@@ -68,18 +64,14 @@ Q_CONSTINIT static const qt_meta_stringdata_CLASSLoginControllerENDCLASS_t qt_me
         QT_MOC_LITERAL(28, 0),  // ""
         QT_MOC_LITERAL(29, 8),  // "username"
         QT_MOC_LITERAL(38, 8),  // "password"
-        QT_MOC_LITERAL(47, 14),  // "handleRegister"
-        QT_MOC_LITERAL(62, 12),  // "switchRegLog"
-        QT_MOC_LITERAL(75, 3)   // "reg"
+        QT_MOC_LITERAL(47, 14)   // "handleRegister"
     },
     "LoginController",
     "handleLogin",
     "",
     "username",
     "password",
-    "handleRegister",
-    "switchRegLog",
-    "reg"
+    "handleRegister"
 };
 #undef QT_MOC_LITERAL
 #endif // !QT_MOC_HAS_STRING_DATA
@@ -91,7 +83,7 @@ Q_CONSTINIT static const uint qt_meta_data_CLASSLoginControllerENDCLASS[] = {
       12,       // revision
        0,       // classname
        0,    0, // classinfo
-       3,   14, // methods
+       2,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -99,14 +91,12 @@ Q_CONSTINIT static const uint qt_meta_data_CLASSLoginControllerENDCLASS[] = {
        0,       // signalCount
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    2,   32,    2, 0x0a,    1 /* Public */,
-       5,    2,   37,    2, 0x0a,    4 /* Public */,
-       6,    1,   42,    2, 0x0a,    7 /* Public */,
+       1,    2,   26,    2, 0x0a,    1 /* Public */,
+       5,    2,   31,    2, 0x0a,    4 /* Public */,
 
  // slots: parameters
     QMetaType::Void, QMetaType::QString, QMetaType::QString,    3,    4,
     QMetaType::Void, QMetaType::QString, QMetaType::QString,    3,    4,
-    QMetaType::Void, QMetaType::Bool,    7,
 
        0        // eod
 };
@@ -127,10 +117,7 @@ Q_CONSTINIT const QMetaObject LoginController::staticMetaObject = { {
         // method 'handleRegister'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
         QtPrivate::TypeAndForceComplete<const QString &, std::false_type>,
-        QtPrivate::TypeAndForceComplete<const QString &, std::false_type>,
-        // method 'switchRegLog'
-        QtPrivate::TypeAndForceComplete<void, std::false_type>,
-        QtPrivate::TypeAndForceComplete<bool, std::false_type>
+        QtPrivate::TypeAndForceComplete<const QString &, std::false_type>
     >,
     nullptr
 } };
@@ -143,7 +130,6 @@ void LoginController::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int 
         switch (_id) {
         case 0: _t->handleLogin((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<QString>>(_a[2]))); break;
         case 1: _t->handleRegister((*reinterpret_cast< std::add_pointer_t<QString>>(_a[1])),(*reinterpret_cast< std::add_pointer_t<QString>>(_a[2]))); break;
-        case 2: _t->switchRegLog((*reinterpret_cast< std::add_pointer_t<bool>>(_a[1]))); break;
         default: ;
         }
     }
@@ -168,13 +154,13 @@ int LoginController::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 3)
+        if (_id < 2)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 3;
+        _id -= 2;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 3)
+        if (_id < 2)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 3;
+        _id -= 2;
     }
     return _id;
 }

@@ -17,7 +17,9 @@ qt_add_executable(organizerApp src/main.cpp
     src/logincontroller.h src/logincontroller.cpp
     src/db/user.h src/db/user.cpp
     src/files.h
-    src/helper.h src/helper.cpp
+
+    src/notescontroller.h src/notescontroller.cpp
+    src/qmlhelper.h src/qmlhelper.cpp
 
 )
 

@@ -1,0 +1,508 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e18e7c6b92237bfdcd6d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					]
+				},
+				{
+					"build" : "content",
+					"jsonFile" : "directory-content-Debug-61a361743d88a3b42c45.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "content",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "imports",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-imports-Debug-615074570c3908afab44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "imports"
+				},
+				{
+					"build" : "imports/organizer",
+					"jsonFile" : "directory-imports.organizer-Debug-1ad3366dc17a9e9627ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "imports/organizer",
+					"targetIndexes" : 
+					[
+						20,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "organizerApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d0dafc59c58c754436aa.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2bd6a4375345b4c12145.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d8d01154bf9354a2b43c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-4030f4a5f4f0a7b7d7f3.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content-Debug-991670e07e24c6aabde6.json",
+					"name" : "content",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_autogen-Debug-9376efa4243672cb4851.json",
+					"name" : "content_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_automoc_json_extraction::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_automoc_json_extraction-Debug-d6372effebd246859851.json",
+					"name" : "content_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache-Debug-853c52debb762890ac69.json",
+					"name" : "content_qmlcache",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmlcache_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmlcache_autogen-Debug-392aa1c4740dff7c6965.json",
+					"name" : "content_qmlcache_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint-Debug-518daead6ee83545144f.json",
+					"name" : "content_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint_json::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_json-Debug-d514cebbc64f4cfe0c2b.json",
+					"name" : "content_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmllint_module::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_module-Debug-6a91482648173d6a406f.json",
+					"name" : "content_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_qmltyperegistration::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmltyperegistration-Debug-f849e73db818a12029ea.json",
+					"name" : "content_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_1::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1-Debug-4ef1b370f0574a8abff4.json",
+					"name" : "content_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_resources_2::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2-Debug-4e114349e6924bd569a9.json",
+					"name" : "content_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "content_tooling::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_tooling-Debug-77e4e006f42282204cf2.json",
+					"name" : "content_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin-Debug-d8b4a39c033026538f3e.json",
+					"name" : "contentplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_autogen-Debug-bbb591508f9f079089d1.json",
+					"name" : "contentplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init-Debug-e9151eff75b892a816dc.json",
+					"name" : "contentplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "contentplugin_init_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init_autogen-Debug-69cad1ba439baf75ef9c.json",
+					"name" : "contentplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer-Debug-616ae10bb3d3b685f224.json",
+					"name" : "organizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp-Debug-abc4294d8f445d7ce7fe.json",
+					"name" : "organizerApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_autogen-Debug-87c510acc4000d985675.json",
+					"name" : "organizerApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_automoc_json_extraction-Debug-bfb20094e7f081321f68.json",
+					"name" : "organizerApp_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_qmlimportscan-Debug-016ed44c833b60dd3051.json",
+					"name" : "organizerApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_qmllint-Debug-740f8e3716c9ac3661fd.json",
+					"name" : "organizerApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_qmllint_json-Debug-7af9b9d94d0e438e1574.json",
+					"name" : "organizerApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_qmllint_module-Debug-11c564e6dd3cd8586edd.json",
+					"name" : "organizerApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_qmltyperegistration-Debug-874d6a86427a1111fde7.json",
+					"name" : "organizerApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "organizerApp_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-organizerApp_tooling-Debug-f1c85be0c2e1ef01de55.json",
+					"name" : "organizerApp_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_autogen::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_autogen-Debug-5d165e3c0472e595b62d.json",
+					"name" : "organizer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_automoc_json_extraction::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_automoc_json_extraction-Debug-c3662ee516e4fc5385a7.json",
+					"name" : "organizer_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_qmlcache::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_qmlcache-Debug-94cce8984da0ea54bbad.json",
+					"name" : "organizer_qmlcache",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_qmlcache_autogen::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_qmlcache_autogen-Debug-a6c5dc9c5d05ed80026b.json",
+					"name" : "organizer_qmlcache_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_qmllint::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_qmllint-Debug-59013bd256be27ccc370.json",
+					"name" : "organizer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_qmllint_json::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_qmllint_json-Debug-1e46edb67d4ca2108bc0.json",
+					"name" : "organizer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_qmllint_module::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_qmllint_module-Debug-32a34f38606cc85adb82.json",
+					"name" : "organizer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_qmltyperegistration::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_qmltyperegistration-Debug-9124575830ec075122ff.json",
+					"name" : "organizer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_resources_1::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_resources_1-Debug-7d0516a4a5deb8169533.json",
+					"name" : "organizer_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_resources_2::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_resources_2-Debug-b0dff3945ef800a49cd1.json",
+					"name" : "organizer_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizer_tooling::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizer_tooling-Debug-50648fbbc66b785da242.json",
+					"name" : "organizer_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizerplugin::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizerplugin-Debug-1d5c67462faf9f8ae9ee.json",
+					"name" : "organizerplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizerplugin_autogen::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizerplugin_autogen-Debug-9580ee28817e5eadce67.json",
+					"name" : "organizerplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizerplugin_init::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizerplugin_init-Debug-7558d7a9d50ceaa8ede8.json",
+					"name" : "organizerplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "organizerplugin_init_autogen::@cd9c4ce3077842dae00d",
+					"jsonFile" : "target-organizerplugin_init_autogen-Debug-6a7e80267780d965b082.json",
+					"name" : "organizerplugin_init_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/maksym/projects/help/organizer/build/Desktop-Debug",
+		"source" : "/home/maksym/projects/help/organizer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

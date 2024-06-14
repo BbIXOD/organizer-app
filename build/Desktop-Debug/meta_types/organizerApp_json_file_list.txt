@@ -1,1 +1,3 @@
 /home/maksym/projects/help/organizer/build/Desktop-Debug/organizerApp_autogen/include/../UVLADIE3JM/moc_logincontroller.cpp.json
+/home/maksym/projects/help/organizer/build/Desktop-Debug/organizerApp_autogen/include/../UVLADIE3JM/moc_notescontroller.cpp.json
+/home/maksym/projects/help/organizer/build/Desktop-Debug/organizerApp_autogen/include/../UVLADIE3JM/moc_qmlhelper.cpp.json

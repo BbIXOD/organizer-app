@@ -5,8 +5,11 @@ import QtQuick 6.2
 import organizer
 
 Window {
-    width: mainScreen.width
-    height: mainScreen.height
+    maximumWidth: 800
+    maximumHeight: 600
+    minimumWidth: 800
+    minimumHeight: 600
+
     id: bWindow
 
     visible: true
@@ -30,7 +33,6 @@ Window {
         id: mainScreen
         objectName: "mainWindow"
         visible: false
-        anchors.centerIn: parent
     }
 
     Notes {

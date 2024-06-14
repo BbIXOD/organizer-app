@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "NotesController",
+            "object": true,
+            "qualifiedClassName": "NotesController",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "notescontroller.h",
+    "outputRevision": 68
+}

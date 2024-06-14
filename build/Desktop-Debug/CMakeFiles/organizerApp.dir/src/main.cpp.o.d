@@ -337,5 +337,5 @@ CMakeFiles/organizerApp.dir/src/main.cpp.o: \
  /home/maksym/projects/help/organizer/src/import_qml_plugins.h \
  /usr/include/qt6/QtQml/qqmlextensionplugin.h \
  /home/maksym/projects/help/organizer/src/logincontroller.h \
- /usr/include/qt6/QtQml/qqmlapplicationengine.h \
+ /home/maksym/projects/help/organizer/src/qmlhelper.h \
  /usr/include/qt6/QtCore/QObject /usr/include/qt6/QtCore/qobject.h

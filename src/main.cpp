@@ -10,6 +10,7 @@
 #include "import_qml_components_plugins.h"
 #include "import_qml_plugins.h"
 #include "logincontroller.h"
+#include "src/qmlhelper.h"
 
 int main(int argc, char *argv[])
 {
@@ -18,6 +19,7 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
 
     qmlRegisterType<LoginController>("logincontroller", 1, 0, "LoginController");
+    qmlRegisterType<QMLHelper>("helper", 1, 0, "QMLHelper");
 
     QQmlApplicationEngine* engine = new QQmlApplicationEngine();
     const QUrl url(u"qrc:/qt/qml/Main/main.qml"_qs);
@@ -41,8 +43,11 @@ int main(int argc, char *argv[])
         return -1;
     }
 
-    LoginController* logCon = new LoginController(engine);
+    QMLHelper* helper = new QMLHelper(engine);
+    LoginController* logCon = new LoginController(helper);
+
     engine->rootContext()->setContextProperty("loginController", logCon);
+    engine->rootContext()->setContextProperty("helper", helper);
 
     return app.exec();
 }

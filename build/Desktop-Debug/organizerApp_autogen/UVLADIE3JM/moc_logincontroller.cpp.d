@@ -1,5 +1,6 @@
 /home/maksym/projects/help/organizer/build/Desktop-Debug/organizerApp_autogen/UVLADIE3JM/moc_logincontroller.cpp: /home/maksym/projects/help/organizer/src/logincontroller.h \
   /home/maksym/projects/help/organizer/build/Desktop-Debug/organizerApp_autogen/moc_predefs.h \
+  /home/maksym/projects/help/organizer/src/qmlhelper.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -365,6 +366,7 @@
   /usr/include/qt6/QtNetwork/qtnetwork-config.h \
   /usr/include/qt6/QtNetwork/qtnetworkexports.h \
   /usr/include/qt6/QtNetwork/qtnetworkglobal.h \
+  /usr/include/qt6/QtQml/QQmlApplicationEngine \
   /usr/include/qt6/QtQml/qjsengine.h \
   /usr/include/qt6/QtQml/qjsmanagedvalue.h \
   /usr/include/qt6/QtQml/qjsnumbercoercion.h \

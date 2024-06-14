@@ -34,17 +34,6 @@
                     ],
                     "name": "handleRegister",
                     "returnType": "void"
-                },
-                {
-                    "access": "public",
-                    "arguments": [
-                        {
-                            "name": "reg",
-                            "type": "bool"
-                        }
-                    ],
-                    "name": "switchRegLog",
-                    "returnType": "void"
                 }
             ],
             "superClasses": [

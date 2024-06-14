@@ -1,14 +1,12 @@
 #include "logincontroller.h"
 #include "db/user.h"
 #include "files.h"
-#include "helper.h"
-#include "qqmlapplicationengine.h"
 #include <fstream>
 #include <QQmlEngine>
 #include <QQmlContext>
 
-LoginController::LoginController(QQmlApplicationEngine *engine, QObject *parent)
-    : QObject(parent), m_engine(engine) {
+LoginController::LoginController(QMLHelper* helper, QObject *parent)
+    : QObject(parent), helper(helper) {
 
 }
 
@@ -17,20 +15,15 @@ void LoginController::handleLogin(const QString &username, const QString &passwo
     User* user = User::getFromFile(&stream, username.toStdString());
     stream.close();
     if (user == NULL) {
-        helper::createPopup(m_engine, "User not found!");
+        helper->createPopup("User not found!");
         return;
     }
     if (password.toStdString() != user->password) {
-        helper::createPopup(m_engine, "Wrong password!");
+        helper->createPopup("Wrong password!");
         return;
     }
-    QObject* root = m_engine->rootObjects().first();
 
-    QObject* lw = root->findChild<QObject*>("loginWindow");
-    QObject* mw = root->findChild<QObject*>("mainWindow");
-
-    lw->setProperty("visible", false);
-    mw->setProperty("visible", true);
+    helper->switchWindow(QString("mainWindow"));
 }
 
 void LoginController::handleRegister(const QString &username, const QString &password) {
@@ -38,7 +31,7 @@ void LoginController::handleRegister(const QString &username, const QString &pas
     User* user = User::getFromFile(&stream, username.toStdString());
     stream.close();
     if (user) {
-        helper::createPopup(m_engine, "User already exists!");
+        helper->createPopup("User already exists!");
         return;
     }
 
@@ -49,14 +42,5 @@ void LoginController::handleRegister(const QString &username, const QString &pas
 
     delete user;
 
-    helper::createPopup(m_engine, "User registered. Now try to login");
-}
-
-void LoginController::switchRegLog(bool reg) {
-    QObject* root = m_engine->rootObjects().first();
-    QObject* lw = root->findChild<QObject*>("loginWindow");
-    QObject* rw = root->findChild<QObject*>("regWindow");
-
-    lw->setProperty("visible", !reg);
-    rw->setProperty("visible", reg);
+    helper->createPopup("User registered. Now try to login");
 }

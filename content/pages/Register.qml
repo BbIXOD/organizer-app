@@ -35,7 +35,7 @@ Item {
         font.family: "Courier"
         display: AbstractButton.TextOnly
         onClicked: {
-            loginController.switchRegLog(false)
+            helper.switchWindow("loginWindow")
         }
     }
 

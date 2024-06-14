@@ -182,24 +182,38 @@ CMakeFiles/organizerApp.dir/src/db/user.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/organizerApp.dir/src/db/user.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/maksym/projects/help/organizer/src/db/user.cpp -o CMakeFiles/organizerApp.dir/src/db/user.cpp.s
 
-CMakeFiles/organizerApp.dir/src/helper.cpp.o: CMakeFiles/organizerApp.dir/flags.make
-CMakeFiles/organizerApp.dir/src/helper.cpp.o: /home/maksym/projects/help/organizer/src/helper.cpp
-CMakeFiles/organizerApp.dir/src/helper.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/organizerApp.dir/src/helper.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/src/helper.cpp.o -MF CMakeFiles/organizerApp.dir/src/helper.cpp.o.d -o CMakeFiles/organizerApp.dir/src/helper.cpp.o -c /home/maksym/projects/help/organizer/src/helper.cpp
+CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o: CMakeFiles/organizerApp.dir/flags.make
+CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o: /home/maksym/projects/help/organizer/src/notescontroller.cpp
+CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o -MF CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o.d -o CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o -c /home/maksym/projects/help/organizer/src/notescontroller.cpp
 
-CMakeFiles/organizerApp.dir/src/helper.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/organizerApp.dir/src/helper.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/maksym/projects/help/organizer/src/helper.cpp > CMakeFiles/organizerApp.dir/src/helper.cpp.i
+CMakeFiles/organizerApp.dir/src/notescontroller.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/organizerApp.dir/src/notescontroller.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/maksym/projects/help/organizer/src/notescontroller.cpp > CMakeFiles/organizerApp.dir/src/notescontroller.cpp.i
 
-CMakeFiles/organizerApp.dir/src/helper.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/organizerApp.dir/src/helper.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/maksym/projects/help/organizer/src/helper.cpp -o CMakeFiles/organizerApp.dir/src/helper.cpp.s
+CMakeFiles/organizerApp.dir/src/notescontroller.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/organizerApp.dir/src/notescontroller.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/maksym/projects/help/organizer/src/notescontroller.cpp -o CMakeFiles/organizerApp.dir/src/notescontroller.cpp.s
+
+CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o: CMakeFiles/organizerApp.dir/flags.make
+CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o: /home/maksym/projects/help/organizer/src/qmlhelper.cpp
+CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o -MF CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o.d -o CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o -c /home/maksym/projects/help/organizer/src/qmlhelper.cpp
+
+CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/maksym/projects/help/organizer/src/qmlhelper.cpp > CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.i
+
+CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/maksym/projects/help/organizer/src/qmlhelper.cpp -o CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.s
 
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o: CMakeFiles/organizerApp.dir/flags.make
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o: .rcc/qrc_configuration.cpp
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o -MF CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o.d -o CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o -c /home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/qrc_configuration.cpp
 
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.i: cmake_force
@@ -213,7 +227,7 @@ CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.s: cm
 CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o: CMakeFiles/organizerApp.dir/flags.make
 CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o: organizerapp_qmltyperegistrations.cpp
 CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o -MF CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o.d -o CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o -c /home/maksym/projects/help/organizer/build/Desktop-Debug/organizerapp_qmltyperegistrations.cpp
 
 CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.i: cmake_force
@@ -227,7 +241,7 @@ CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.s: cmake_force
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o: CMakeFiles/organizerApp.dir/flags.make
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o: .rcc/qrc_qmake_Main.cpp
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o -MF CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o.d -o CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o -c /home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp
 
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.i: cmake_force
@@ -241,7 +255,7 @@ CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.s: cmake
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o: CMakeFiles/organizerApp.dir/flags.make
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o: .rcc/qmlcache/organizerApp_qmlcache_loader.cpp
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o -MF CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o.d -o CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.o -c /home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp
 
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlcache_loader.cpp.i: cmake_force
@@ -255,7 +269,7 @@ CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_qmlca
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o: CMakeFiles/organizerApp.dir/flags.make
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o: .rcc/qmlcache/organizerApp_main_qml.cpp
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o -MF CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o.d -o CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.o -c /home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp
 
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_qml.cpp.i: cmake_force
@@ -269,7 +283,7 @@ CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qmlcache/organizerApp_main_
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o: CMakeFiles/organizerApp.dir/flags.make
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o: .rcc/qrc_organizerApp_raw_qml_0.cpp
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o: CMakeFiles/organizerApp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o -MF CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o.d -o CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.o -c /home/maksym/projects/help/organizer/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp
 
 CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_organizerApp_raw_qml_0.cpp.i: cmake_force
@@ -286,7 +300,8 @@ organizerApp_OBJECTS = \
 "CMakeFiles/organizerApp.dir/src/main.cpp.o" \
 "CMakeFiles/organizerApp.dir/src/logincontroller.cpp.o" \
 "CMakeFiles/organizerApp.dir/src/db/user.cpp.o" \
-"CMakeFiles/organizerApp.dir/src/helper.cpp.o" \
+"CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o" \
+"CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o" \
 "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o" \
 "CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o" \
 "CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o" \
@@ -301,7 +316,8 @@ organizerApp: CMakeFiles/organizerApp.dir/organizerApp_autogen/mocs_compilation.
 organizerApp: CMakeFiles/organizerApp.dir/src/main.cpp.o
 organizerApp: CMakeFiles/organizerApp.dir/src/logincontroller.cpp.o
 organizerApp: CMakeFiles/organizerApp.dir/src/db/user.cpp.o
-organizerApp: CMakeFiles/organizerApp.dir/src/helper.cpp.o
+organizerApp: CMakeFiles/organizerApp.dir/src/notescontroller.cpp.o
+organizerApp: CMakeFiles/organizerApp.dir/src/qmlhelper.cpp.o
 organizerApp: CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_configuration.cpp.o
 organizerApp: CMakeFiles/organizerApp.dir/organizerapp_qmltyperegistrations.cpp.o
 organizerApp: CMakeFiles/organizerApp.dir/build/Desktop-Debug/.rcc/qrc_qmake_Main.cpp.o
@@ -377,7 +393,7 @@ organizerApp: /usr/lib64/libQt6Qml.so.6.6.2
 organizerApp: /usr/lib64/libQt6Network.so.6.6.2
 organizerApp: /usr/lib64/libQt6Core.so.6.6.2
 organizerApp: CMakeFiles/organizerApp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable organizerApp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/maksym/projects/help/organizer/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable organizerApp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/organizerApp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

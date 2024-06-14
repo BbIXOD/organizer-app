@@ -3,8 +3,8 @@ import QtQuick.Controls 6.2
 
 Item {
     Button {
-        x: 56
-        y: 298
+        x: 100
+        y: 300
         width: 130
         height: 43
         text: qsTr("Notes")
@@ -15,16 +15,16 @@ Item {
     }
 
     Button {
-        x: 255
-        y: 298
+        x: 300
+        y: 300
         width: 130
         height: 43
         text: qsTr("Calendar")
     }
 
     Button {
-        x: 452
-        y: 298
+        x: 500
+        y: 300
         width: 130
         height: 43
         text: qsTr("Todo")
@@ -32,8 +32,8 @@ Item {
 
     BusyIndicator {
         id: busyIndicator
-        x: 257
-        y: 72
+        x: 300
+        y: 100
         width: 126
         height: 109
     }

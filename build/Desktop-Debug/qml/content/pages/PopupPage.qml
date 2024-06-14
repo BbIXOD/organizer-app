@@ -24,6 +24,5 @@ Popup {
 
     function showPopup() {
         visible =  true
-        popupRoot.show()
     }
 }

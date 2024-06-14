@@ -35,17 +35,6 @@
                         ],
                         "name": "handleRegister",
                         "returnType": "void"
-                    },
-                    {
-                        "access": "public",
-                        "arguments": [
-                            {
-                                "name": "reg",
-                                "type": "bool"
-                            }
-                        ],
-                        "name": "switchRegLog",
-                        "returnType": "void"
                     }
                 ],
                 "superClasses": [
@@ -57,6 +46,64 @@
             }
         ],
         "inputFile": "logincontroller.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "NotesController",
+                "object": true,
+                "qualifiedClassName": "NotesController",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "notescontroller.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "QMLHelper",
+                "object": true,
+                "qualifiedClassName": "QMLHelper",
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "to",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "switchWindow",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "content",
+                                "type": "std::string"
+                            }
+                        ],
+                        "name": "createPopup",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "qmlhelper.h",
         "outputRevision": 68
     }
 ]

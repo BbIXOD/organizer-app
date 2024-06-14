@@ -745,15 +745,21 @@
 			null
 		],
 		[
-			"/home/maksym/projects/help/organizer/src/helper.h",
-			"MU",
-			"UVLADIE3JM/moc_helper.cpp",
-			null
-		],
-		[
 			"/home/maksym/projects/help/organizer/src/logincontroller.h",
 			"MU",
 			"UVLADIE3JM/moc_logincontroller.cpp",
+			null
+		],
+		[
+			"/home/maksym/projects/help/organizer/src/notescontroller.h",
+			"MU",
+			"UVLADIE3JM/moc_notescontroller.cpp",
+			null
+		],
+		[
+			"/home/maksym/projects/help/organizer/src/qmlhelper.h",
+			"MU",
+			"UVLADIE3JM/moc_qmlhelper.cpp",
 			null
 		]
 	],
@@ -847,13 +853,18 @@
 			null
 		],
 		[ "/home/maksym/projects/help/organizer/src/db/user.cpp", "MU", null ],
-		[ "/home/maksym/projects/help/organizer/src/helper.cpp", "MU", null ],
 		[
 			"/home/maksym/projects/help/organizer/src/logincontroller.cpp",
 			"MU",
 			null
 		],
-		[ "/home/maksym/projects/help/organizer/src/main.cpp", "MU", null ]
+		[ "/home/maksym/projects/help/organizer/src/main.cpp", "MU", null ],
+		[
+			"/home/maksym/projects/help/organizer/src/notescontroller.cpp",
+			"MU",
+			null
+		],
+		[ "/home/maksym/projects/help/organizer/src/qmlhelper.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
